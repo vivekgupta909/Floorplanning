@@ -1,0 +1,7 @@
+,CPU_Core,Memory_Controller,GPU_Unit,IO_Bridge,Network_Interface,Power_Management
+CPU_Core,1000000,50,30,20,0,0
+Memory_Controller,50,800000,40,0,25,0
+GPU_Unit,30,40,1200000,35,0,15
+IO_Bridge,20,0,35,600000,0,0
+Network_Interface,0,25,0,0,400000,10
+Power_Management,0,0,15,0,10,300000
